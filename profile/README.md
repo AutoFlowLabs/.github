@@ -21,6 +21,12 @@ We've built **AutoFlow Studio** lets you create user-stories based end-to-end te
 
 Born from real-world testing challenges, AutoFlow Studio is designed to eliminate E2E testing headaches. We understand the pain of releasing products without proper tests and watching things break. That's why we've created a solution that makes testing effortless and integral to every development cycle.
 
+## Want to Report a bug?
+
+Please feel free to raise an issue at https://github.com/AutoFlowLabs/autoflow-studio-support
+
+Our team will promptly address the issue and assign it to an expert. You'll stay informed with regular updates throughout the process.
+
 ## ✨ Key Features
 
 - 🕵️ **Full Web Analysis**
