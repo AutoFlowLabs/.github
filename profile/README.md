@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  Setting New Standards of End to End Testing
+  <strong>Setting New Standards of End to End Testing</strong>
 </p>
 
 <p align="center">
