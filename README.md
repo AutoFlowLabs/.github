@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/du5yq7zec/Branding/croppedLogo.png?updatedAt=1732089062509" alt="AutoFlow Logo" width="200"/>
+  <a href="https://autoflow.tools">
+    <img src="https://ik.imagekit.io/du5yq7zec/Branding/croppedLogo.png?updatedAt=1732089062509" alt="AutoFlow Logo" width="200" />
+  </a>
+</p>
+<p align="center">
+  Setting New Standards of End to End Testing
 </p>
 
 <p align="center">
-  Setting New Standards of End to End Testing
+  <a href="https://dub.sh/discord-autoflow"> 
+    <img src="https://github.com/user-attachments/assets/a4e860da-a72a-4cbc-8286-6f646806fad2" alt="Join Community" width="700" />
+  </a>
 </p>
 
 ## 🚀 About AutoFlow
